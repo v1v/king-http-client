@@ -1,4 +1,4 @@
-# king-http-client
+# king-http-client  [![Build Status](https://travis-ci.org/v1v/king-http-client.svg?branch=master)](https://travis-ci.org/v1v/king-http-client
 
 
 ## Api
